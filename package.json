@@ -9,7 +9,11 @@
   "author": "Sanjay Patel",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.9.2",
     "express": "^4.10.1",
-    "jade": "^1.7.0"
+    "jade": "^1.7.0",
+    "mongoose": "^3.8.18",
+    "morgan": "^1.4.1",
+    "stylus": "^0.49.3"
   }
 }
