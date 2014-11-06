@@ -1,0 +1,15 @@
+{
+  "name": "multivision",
+  "version": "1.0.0",
+  "description": "Extreme Tech Training",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sanjay Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.1",
+    "jade": "^1.7.0"
+  }
+}
